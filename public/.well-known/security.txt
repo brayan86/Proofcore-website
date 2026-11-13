@@ -1,0 +1,6 @@
+Contact: mailto:seguridad@proofcore.com
+Contact: https://proofcore.com/seguridad#reportar
+Expires: 2027-11-13T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://proofcore.com/.well-known/security.txt
+Policy: https://proofcore.com/seguridad#reportar
